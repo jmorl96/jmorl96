@@ -5,7 +5,7 @@
 
 - ☁️ Currently working in Google Cloud Platform projects.
 
-- 🔨📁 Using BigQuery for ETL and Datawarehouse porpouses.
+- 🔨📁 Using BigQuery for ETL and Datawarehousing purposes.
 
 - 📊 Using Data Studio for data visualization.
 
