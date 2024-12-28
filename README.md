@@ -22,9 +22,9 @@ HashiCorp Certified: Terraform Associate
 
 - Organization: JIRA, Confluence
 
-- 📫 How to reach me: **josemanuel.ortuno.lorente@outlook.es**
+- 📫 How to reach me: **joseortuno@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jose-manuel-ortuno-lorente-58abb9123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jose-manuel-ortuno-lorente-58abb9123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joseol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jose-manuel-ortuno-lorente-58abb9123" height="30" width="40" /></a>
 </p>
