@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">Data professional with 4+ years of experience. Solid knowledge in Machine Learning and Data Engineering.</h3>
+<h3 align="center">Data engineer with over five years of experience in implementing data engineering solutions on Google Cloud Platform.</h3>
 
 ---
 Google Cloud Professional Data Engineer
@@ -10,17 +9,14 @@ Google Cloud Associate Cloud Engineer
 
 HashiCorp Certified: Terraform Associate
 
+## Check some interesting projects:
+<img align="center" src="https://github.com/jmorl96/Bitcoin-Ecosystem-Insights-Data-Engineering-Project/blob/main/media/architecture.png" width="600" >
+
+
+- [Bitcoin Ecosystem Insights Data Engineering Project](https://github.com/jmorl96/Bitcoin-Ecosystem-Insights-Data-Engineering-Project)
+
 ---
 
-- Languages: Python, SQL, R.
-
-- Libraries: GCP APIs, Pandas, Numpy, Tensorflow / Keras, Scikit-Learn, Matplotlib, BeautifulSoup ...
-
-- Technologies & Tools: Bigquery, Cloud Functions, Pub Sub (Kafka), Dataflow (Apache Beam), Terraform, Composer (Airflow), Fivetran...
-
-- Visualization: Looker, Looker Studio, Qlik, Power BI, Tableau.
-
-- Organization: JIRA, Confluence
 
 - 📫 How to reach me: **joseortuno@proton.me**
 
